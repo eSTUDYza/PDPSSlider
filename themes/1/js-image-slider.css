@@ -6,12 +6,13 @@
 #sliderFrame 
 {
     width:950px;
-    margin:0 auto; /*center-aligned*/
+    margin: auto; /*center-aligned*/
 }
 
 #slider, #slider .sliderInner {
     width:950px;height:448px;/* Must be the same size as the slider images */
     border-radius:3px;
+    margin: auto;
 }
 
 #slider {
