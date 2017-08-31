@@ -1,7 +1,7 @@
 
 /* For generic page styles. Not for sliders. */
 
-body {background:#F6F6F6;font:normal 0.9em Arial; margin:0; padding:0; padding-bottom:60px;}
+body {background:#ffffff;font:normal 0.9em Arial; margin:0; padding:0; padding-bottom:60px;}
 h2 {display:inline;}
 .div1, .div2 {width:700px;margin:0 auto;}
 .div1 {margin-top:30px;margin-bottom:60px;text-align:center;line-height:20px;}
@@ -17,7 +17,7 @@ h2 {display:inline;}
 
 .code
 {
-    border: dashed 1px #BCBCCB; padding:8px 12px; background-color: #F3F3F9; white-space:pre; font-family:"Courier New", Georgia;
+    border: dashed 1px #BCBCCB; padding:8px 12px; background-color: #FFFFFF; white-space:pre; font-family:"Courier New", Georgia;
     font-size:12px; margin:6px 0;overflow:auto; 
 }
 
