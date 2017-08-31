@@ -6,14 +6,14 @@
 #sliderFrame 
 {
     width:990px;
-    margin: auto; /*center-aligned*/
+    margin:0 auto; /*center-aligned*/
 }
 
 #slider, #slider .sliderInner {
-    width:990px;height:467px;/* Must be the same size as the slider images */
+    width:950px;height:448px;/* Must be the same size as the slider images */
     border-radius:3px;
-    margin: auto;
-    margin-left: -5%;
+    margin:0 auto;
+   
 }
 
 #slider {
